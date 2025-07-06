@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
+import time 
 
 try: 
     link = "https://suninjuly.github.io/registration2.html"
